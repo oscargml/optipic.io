@@ -1,0 +1,6 @@
+{
+  "name": "OptiPic",
+  "description": "Premium client-side image processing toolkit for offline conversion, resizing, and batch compression. Zero data collection feel, speed-optimized and ready for AdSense monetization with dynamic SEO-packed resource hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
